@@ -116,11 +116,13 @@ Celkový rozdíl činil 13,93 %.
 Z grafického zobrazení vyplývá, že vývoj HDP se promítá do vývoje mezd se zpožděním přibližně 1–2 roky.  
 Růst HDP zvyšuje zisky podniků a s mírným zpožděním se promítá do růstu mezd.  
 
-
+![Vývoj změn HDP a mezd](images/HDP_Mzdy.png)
 
 #### Vliv HDP na ceny potravin  
 Ceny potravin jsou ovlivněny více faktory (např. inflací, cenami surovin, počasím, dovozy a vývozy).  
 Změny HDP se do nich projevují jen částečně a vývoj cen je výrazně volatilnější než vývoj HDP nebo mezd.
+
+![Vývoj HDP a cen potravin](images/HDP_potraviny.png)
 
 ---
 
