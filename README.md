@@ -1,9 +1,9 @@
 # Projekt z SQL – Engeto Online Akademie  
 **Kurz:** Datový analytik s Pythonem  
-**Datum odevzdání:** 5. 3. 2025  
-**Verze:** 1.0  
+**Datum začátku kurzu:** 5. 3. 2025  
+**Verze:** 1.1  
 **Autor:** Lucie Šujanová  
-**Email:** lsujanova@sezna.cz  
+**Email:** lsujanova@seznam.cz  
 
 ---
 
@@ -75,9 +75,24 @@ Nejčastějším odvětvím s poklesem mezd bylo B – těžba a dobývání.
 Porovnány jsou roky 2006 a 2018, pro které jsou dostupná potřebná data.  
 Výsledné množství litrů mléka a kilogramů chleba, které lze koupit za jednu měsíční mzdu, je uvedeno ve výstupu dotazu.  
 
-- Odvětví s nejnižším nákupem obou surovin: Ubytování a pohostinství  
-- Odvětví s nejvyšším nákupem:  
-  - v roce 2006 – Peněžnictví a pojišťovnictví  
+### Nejnižší nákup
+
+| Rok | Odvětví | Chléb (kg/m) | Mléko (l/m) |
+|-----|----------|---------------|--------------|
+| 2006 | Ubytování, stravování a pohostinství | 724,19 | 808,45 |
+| 2018 | Ubytování, stravování a pohostinství | 794,97 | 972,25 |
+
+### Nejvyšší nákup
+
+| Rok | Odvětví | Chléb (kg/m) | Mléko (l/m) |
+|-----|----------|---------------|--------------|
+| 2006 | Peněžnictví a pojišťovnictví | 2 483,06 | 2 771,95 |
+| 2018 | Informační a komunikační činnosti | 2 340,26 | 2 862,16 |
+
+
+- Odvětví s nejnižším nákupem obou surovin: Ubytování, stravování a pohostinství 
+- Odvětví s nejvyšším nákupem:
+  - v roce 2006 – Peněžnictví a pojišťovnictví
   - v roce 2018 – Informační a komunikační činnosti
 
 ---
